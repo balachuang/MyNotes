@@ -1,0 +1,42 @@
+#基礎
+
+- 免費材質下載: https://ambientcg.com/
+- HDRI: https://hdri-haven.com/
+- hdri: World properties >> Surface >> Color >> Environment image >> 選 HDRI 圖檔
+- blender glass: https://www.youtube.com/watch?v=E77rqIlBe4o
+- bender tree: https://www.youtube.com/watch?v=Yyc237Wxg6A
+- select mesh --> F3 --> 打字查指令
+- 顯示法線: Edit Mode --> Show Overlay (上方右邊 icon) --> Display Normal
+- Z: 切換 render mode
+- G > G: edit mode 時讓點延著線移動
+- Alt-左鍵: edit mode 環型選取
+- link to [Bump](../材質/Node/Bump.md)
+- Texture Coordinate::Object -- Mapping::Vector
+- 不用貼圖的水泥材質: https://www.youtube.com/watch?v=XDqRa0ExDqs
+- 這裡可以免費下載一次四張貼圖: https://ambientcg.com/
+- Edit mode 下 Ctrl-右建 可以直接 extrude 到點選位置, 還會自動轉正
+- curve >> bevel >> depth / resolution --> make rendeable for curve
+- curve >> bevel >> object --> change section shape
+- curve >> change size in single vertex
+- 2d --> 3d: https://www.youtube.com/watch?v=shLFKnG8Fo0
+- 卡通 render 會用到的 add-ons:
+  - Tex Tool
+  - Auto Reload
+  - Outline Helper
+  - Ref: https://youtu.be/FvXFq_OxJXg
+- [AddOn][材質] BlenderKit Online Asset Library: https://youtu.be/Brv5EAAZyJA?si=1X950MAX3YCXCT-x
+- free 模型資源
+  - Thingiverse: https://www.thingiverse.com/
+  - CGTrader: https://www.cgtrader.com/
+  - MyMiniFactory: https://www.myminifactory.com/
+  - Cults: https://cults3d.com/en
+  - Pinshape: https://pinshape.com/
+- plugin: blenderkit online asset library
+  - 方便查找網路上的免費資源, 內容來自 blenderkit.com 網站
+  - https://www.youtube.com/watch?v=Brv5EAAZyJA
+- AI 建模: PIFuHD 真人照片2D轉3D AI建模
+  - https://www.youtube.com/watch?v=MCROCPcdUR0
+
+---
+
+- [回上層目錄](./index.md)
