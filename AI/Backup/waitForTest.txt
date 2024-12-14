@@ -1,0 +1,23 @@
+-- 全面控制影片中人物的表情 | 100%免費
+https://www.youtube.com/watch?v=1RnW9Snf93c
+
+Live Portrait:
+https://liveportrait.github.io/
+https://github.com/KwaiVGI/LivePortrait
+https://huggingface.co/spaces/KwaiVGI...
+https://github.com/shadowcz007/comfyu...
+https://replicate.com/fofr/live-portrait
+
+
+
+-- Facefusion2.6 【AI換臉教學】 獨立版 [ 2.6 ] Face Fusion終極指南
+https://www.youtube.com/watch?v=vH5FecNzayY
+
+
+-- ControlNet
+https://ai-summoner.tw/7612/what-is-controlnet1-1/
+
+https://civitai.com/models/80473/pornmaster-pro
+https://vocus.cc/article/66c87f75fd8978000143c73a
+https://github.com/dseditor/ComfyuiWorkflows/tree/main
+

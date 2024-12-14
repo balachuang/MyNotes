@@ -36,6 +36,8 @@
   - https://www.youtube.com/watch?v=Brv5EAAZyJA
 - AI 建模: PIFuHD 真人照片2D轉3D AI建模
   - https://www.youtube.com/watch?v=MCROCPcdUR0
+- plugin: QuickShape
+  - https://jamajurabaev.gumroad.com/l/tOWta
 
 ---
 
