@@ -26,12 +26,14 @@
     - 1_下戴稍後觀看_forPlay.bat: 下載影片用 BAT 檔
     - myDownload_LocalPlay.conf: yt-dlp 專用的 config 檔
     - Local_Rename.ps1: 給 1_下戴稍後觀看_forPlay.bat 呼叫用的 Powershell script
-- 第六代 (目前使用中)
+- 第六代
   - 用來下載影片的 script 越來越多, 決定自己寫一個程式來取代 Powershell script, 功能包含:
     - 根據條件自動判斷播放位置 (車上播放 / 本機播放), 並自動搬到對應目錄.
     - 根據播放位置修改檔名. 除了相容之前的改名條件外, 再新增檔名長度限制.
   - Related Files:
     - D:\MyDownload\youtube\_post_processor\youtube-video-post-processor-1.0.0-SNAPSHOT.jar
+    - 1_自動下載稍後觀看.bat
+    - 2_手動下載單一影片.bat
 - 第七代 (失敗取消)
   - 本來想要改寫前代的程式, 把 download 也加進去, 並且持續執行, 一監測到 cookie 檔出現就開始下載.
   - 後來因為兩個原因取消:
@@ -40,6 +42,15 @@
   - 先把無效的程式壓起來備份就好.
   - Related Files:
     - MyYoutubeProcessor - Useless.7z
+- 第八代 (目前使用中)
+  - 用 Autohotkey 重寫 script, 一樣用 Windows Scheduler 排程啟動. 優點如下:
+    - 執行時可以不需要顯示 Windows Command Line 視窗
+    - 可以把要額外下載的影片 url 放在一個獨立檔案, 直接用 Autohotkey 讀進來
+  - 搭配 getAllShortsUrl.js 可以快速把目前頁面上所有 short 影片網址抓出來.
+  - Related Files:
+    - Final_YT_DLP.ahk   - Autohotkey script
+    - yt.videos.txt      - 存放要額外下載的 url, 下載後會自動清空
+    - getAllShortsUrl.js - 做成 Chrome 上的 inline javascript button
 
 
 ### PS
