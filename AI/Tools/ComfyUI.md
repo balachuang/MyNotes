@@ -103,4 +103,4 @@ InsightFace (已安裝)
 
 ---
 
-- [回主目錄](./index.md)
+- [回主目錄](../index.md)

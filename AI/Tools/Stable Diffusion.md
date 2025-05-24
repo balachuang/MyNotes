@@ -115,5 +115,5 @@ D:\MyDev\local_AI\stable-diffusion-webui\venv\Scripts\python.exe -m pip install 
 
 ---
 
-- [回主目錄](./index.md)
+- [回主目錄](../index.md)
 
