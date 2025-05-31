@@ -29,6 +29,15 @@ This is a high-resolution portrait of a modern style, featuring a young woman.  
 - AnimateDiff
   - https://blog.hinablue.me/comfyui-animatediff-vid2vid-workflow/
 
+- rgthree
+  - 提供一整組好用的工具, 包含 Image Compare, 可以有一條 bar 在中間拉來拉去
+  - 直接用 ComfyUI Manager 安裝
+
+- ComfyUI's ControlNet Auxiliary Preprocessors
+  - 使用 ControlNet 時的預處理器, 內含 50 種以上的預處理器可以從圖片中取出 ControlNet 需要的特徵
+  - 直接用 ComfyUI Manager 安裝, 第一用的時候會比較久, 因為他會需要下載所有的 model
+  - 下載 model 會失敗, google 後發現原來是路徑太長, 最後把整個 ComfyUI 搬到根目錄下.
+  - Ref: https://www.youtube.com/watch?v=yrRY-CxEBg4
 
 ## ComfyUI Plugin
 

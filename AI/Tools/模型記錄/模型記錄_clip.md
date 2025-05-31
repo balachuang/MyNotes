@@ -16,6 +16,14 @@
     - `t5-v1_1-xxl-encoder-Q4_K_S.gguf`
     - `t5-v1_1-xxl-encoder-Q5_K_S.gguf`
 
+### zer0int/CLIP-GmP-ViT-L-14
+  - 最後終於找到這個 clip model 是可以用在 flux-fill model 上的.
+  - 根據 Model Card 的說明, 這兩個的差異是一個用在有文字的情形, 另一個用在沒有文字的情形
+  - Download: [Hugging Face](https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14/tree/main)
+    (`ViT-L-14-BEST-smooth-GmP-TE-only-HF-format.safetensors`)
+    (`ViT-L-14-TEXT-detail-improved-hiT-GmP-TE-only-HF.safetensors`)
+  - Reference: https://www.youtube.com/watch?v=U4RLjDKrM3E
+
 
 ---
 

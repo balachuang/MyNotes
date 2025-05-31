@@ -15,6 +15,13 @@
   - 已刪除棄用 --> 直接改用 RealESRGan
 - Download: [Hugging Face](https://huggingface.co/collections/jasperai/flux1-dev-controlnets-66f27f9459d760dcafa32e08)
 
+### Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro
+- Shakker Labs 出版的 Flux 專用 ControlNet 模型, 也可以用在 GGUF 檔型上
+- 注意 Apply ControlNet 時間和權限很重要, 填亂有可能無效或是品質崩壞
+- Download: [Hugging Face](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro/tree/main)
+  原始檔名: (`diffusion_pytorch_model.safetensors`)
+  自行改名: (`Shakker_Labs_FLUX.1_dev_ControlNet_Union_Pro.safetensors`)
+
 
 ---
 

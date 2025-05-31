@@ -38,6 +38,13 @@
   - https://www.youtube.com/watch?v=MCROCPcdUR0
 - plugin: QuickShape
   - https://jamajurabaev.gumroad.com/l/tOWta
+- QBlocker Free 0.161 for Blender 4.0+
+  - https://blenderesse.gumroad.com/l/smudgemaskgenerator?a=742446579
+- Smudge Mask Generator for Geometrynodes/ Blender 4.0
+  - https://blenderesse.gumroad.com/l/smudgemaskgenerator?a=742446579
+- How to Actually Learn Blender in 2025 (Step-by-Step Beginner Guide)
+  - https://www.youtube.com/watch?v=62PluE5Cn2Y
+  - 整理一系列最佳的學習 Blender 資源, 包含免費和付費. 有空可以看看.
 
 ---
 
